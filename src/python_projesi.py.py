@@ -1,6 +1,6 @@
 ak = None #Akmülatör 
 pc = 1  # program sayacı 
-# komutları sürekli alıp işlmek için sonsuz döngü başlatılır.
+# komutları sürekli alıp işlemek için sonsuz döngü başlatılır.
 while True:
     komut = input("Bir komut gir: ").lower() #kulanıcıdan komut alınır ve küçük harfe çevilir. 
 
