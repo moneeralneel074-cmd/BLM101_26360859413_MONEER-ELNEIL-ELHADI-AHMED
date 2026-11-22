@@ -22,12 +22,12 @@
 * 'mul' : 'ak' değerini girilen sayı ile çarpar.
 * 5 . İşlem tamamlandığında 'pc' değeri 1 artırılır ve güncel 'pc' ile 'ak' değerleri ekrana yazdırılır.
 * 6 . Geçersiz bir komut girilirse '"Geçersiz komut!"' yazdırılır ve 'pc' artırılmadan bir sonraki döngü adımına geçilir.
-  ## Örnek çalıştırma
+```  ## Örnek çalıştırma
   ´´´text
 bir komut gir : load
 bir sayı gir : 10
   pc = 2 | ak = 10 
-
+```
  
 
 
